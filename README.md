@@ -1,1 +1,1 @@
-# restaurant-django-exercise
+# Restaurant Django Exercise
