@@ -47,11 +47,11 @@ Create new Django apps for the menu, reservations and orders.
 
 Use [Django REST Framework]() to create the following API endpoints:
 
-    GET /menu 
-    POST /reservations
-    GET /reservations
-    POST /orders
-    GET /orders
+    GET /api/menu 
+    POST /api/reservations
+    GET /api/reservations
+    POST /api/orders
+    GET /api/orders
 
 **Requirements:**
 
