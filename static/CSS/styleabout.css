@@ -1,0 +1,59 @@
+html {
+    background-image: radial-gradient(#191970, #111134);
+    height: 100vh;
+    width: 90vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    padding-left: 5vw;
+    color: #ffffff;
+}
+body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+header {
+    height: 14%;
+    width: 100%;
+    text-align: left;
+    & fieldset {
+        background-image: radial-gradient(#00ff00, #1b542c);
+        height: 75%;
+        width: 97.5%;
+        border-radius: 15px;
+        display: flex;
+        justify-content: space-around;
+    }
+}
+main {
+    height: 74%;
+    width: 100%;
+    text-align: left;
+    & fieldset {
+        background-image: radial-gradient(#fe0000, #7c2c2b);
+        height: 96%;
+        width: 97.5%;
+        border-radius: 15px;
+        display: flex;
+        justify-content: space-around;
+    }
+}
+footer {
+    height: 10%;
+    width: 100%;
+    text-align: left;
+    & fieldset {
+        background-image: radial-gradient(#ff00ff, #2d0044);
+        height: 75%;
+        width: 97.5%;
+        border-radius: 15px;
+        display: flex;
+        justify-content: space-around;
+    }
+}
