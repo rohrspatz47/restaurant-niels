@@ -60,4 +60,4 @@ Use [Django REST Framework]() to create the following API endpoints:
 * Level 2 (intermediate): `POST /reservations` is implemented
 * Level 3 (advanced): `GET /orders` and `POST /orders` are implemented
 
-Optional: Refactor the forms in such way that they access the API via JavaScript.
+Optional: Refactor the forms in such way that they access the API via JavaScript.# restaurant
